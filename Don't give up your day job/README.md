@@ -2,8 +2,9 @@
 <br><выходные данные статьи>
 <br>`ссылка`
 <p align="center">
-  <img width="350" height="411" src="https://github.com/blood097/Scientific_materials/blob/4d887aba5eff60a064cc707328014d87156ce899/Don't%20give%20up%20your%20day%20job/pic_plot.png">
+  <img width="525" height="617" src="https://github.com/blood097/Scientific_materials/blob/4d887aba5eff60a064cc707328014d87156ce899/Don't%20give%20up%20your%20day%20job/pic_plot.png">
 </p>
+<br>
 ___
 **Data**
 <br>`raw_data.xlxs` - table contains raw data from growth parameter measurements and shoots nitrogen content measurements 
