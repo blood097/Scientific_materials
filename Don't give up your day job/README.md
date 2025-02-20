@@ -1,5 +1,7 @@
 # Don't give up your day job: Symbiotic compatibility between _Rhizobium laguerreae_ and its host
-
+<br><выходные данные статьи>
+<br>`ссылка`
+___
 **Data**
 <br>`raw_data.xlxs` - table contains raw data from growth parameter measurements and shoots nitrogen content measurements 
 ___
