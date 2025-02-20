@@ -1,4 +1,4 @@
-#Don't give up your day job: Symbiotic compatibility between _Rhizobium laguerreae_ and its host
+#Don't give up your day job: Symbiotic compatibility between _Rhizobium laguerreae_ and its host#
 
 ---
 **Data**
