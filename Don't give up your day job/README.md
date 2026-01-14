@@ -1,6 +1,6 @@
 # Symbiotic compatibility between _Rhizobium laguerreae_ and its host
 <br>`Kirichek, E.A., Tsyganova, A.V., Flores-Félix, J.D. et al. Symbiotic compatibility between Rhizobium laguerreae and its host. Arch Microbiol 208, 91 (2026)`
-<br>[DOI](https://doi.org/10.1007/s00203-025-04595-7)
+<br>[DOI: 10.1007/s00203-025-04595-7](https://doi.org/10.1007/s00203-025-04595-7)
 <p align="center">
   <img width="600" height="430" src="https://github.com/blood097/Scientific_materials/blob/cfaa2b8f4d3c19b0b29d188b0e5788557bc864f4/Don't%20give%20up%20your%20day%20job/abstract.png">
 </p>
