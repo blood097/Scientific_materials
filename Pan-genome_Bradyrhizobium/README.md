@@ -1,6 +1,9 @@
 # *Bradyrhizobium ottawaense*: How pan-genomic research has suddenly reveal strain with freakish host specific compatibility
 <br>`выходные данные статьи`
 <br><ссылка>
+<p align="center">
+  <img width="600" height="430" src="https://github.com/blood097/Scientific_materials/blob/cfaa2b8f4d3c19b0b29d188b0e5788557bc864f4/Don't%20give%20up%20your%20day%20job/abstract.png">
+</p>
 
 **Data**
 <br>`Gene Presence Absence.txt` - gene presence and absence .Rtab file lists each gene and which samples it is present in
@@ -13,10 +16,10 @@
 <br>`emapper.annotations.xlsx` -  results from eggNOG mapper annotation phase in .xlsx format
 
 **Analysis**
-<br>`Pan-genome_post_roary.ipynb` - Jupyter Notebook
-<br>`FastANI_plotter.ipynb` - Jupyter Notebook
-<br>`Roary_unique_gene_COG.ipynb` - Jupyter Notebook
-<br>`rhierbaps.R` - R script
+<br>`Pan-genome_post_roary.ipynb` - Jupyter Notebook for ploting presence/absence matrix against the tree, pangenome pie chart and mathematically evaluation of core genome size and pan-genome structure
+<br>`FastANI_plotter.ipynb` - Jupyter Notebook for FastANI data analysis and visualisation
+<br>`Roary_unique_gene_COG.ipynb` - Jupyter Notebook for COG category summary visualisation
+<br>`rhierbaps.R` - R script for implementation of hierBAPS algorithm according to Tonkin-Hill *et al*. 2018
 
 **Accessory**
 <br>`COG one letter code descriptions.xlsx` - guide to COG one-letter codes categorize protein functions into main groups
