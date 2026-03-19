@@ -2,7 +2,7 @@
 <br>`выходные данные статьи`
 <br><ссылка>
 <p align="center">
-  <img width="600" height="450" src="https://github.com/blood097/Scientific_materials/blob/09ab8961f87057bcb8102a95ed34e2230c3668e4/Pan-genome_Bradyrhizobium/abstract.jpg">
+  <img width="1200" height="900" src="https://github.com/blood097/Scientific_materials/blob/8cfd4c6360cda5c359535f348f1414eacabf3675/Pan-genome_Bradyrhizobium/abstract.png">
 </p>
 
 **Data**
