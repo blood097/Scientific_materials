@@ -2,7 +2,7 @@
 <br>`выходные данные статьи`
 <br><ссылка>
 <p align="center">
-  <img width="600" height="430" src="https://github.com/blood097/Scientific_materials/blob/cfaa2b8f4d3c19b0b29d188b0e5788557bc864f4/Don't%20give%20up%20your%20day%20job/abstract.png">
+  <img width="1200" height="900" src="https://github.com/blood097/Scientific_materials/blob/09ab8961f87057bcb8102a95ed34e2230c3668e4/Pan-genome_Bradyrhizobium/abstract.jpg">
 </p>
 
 **Data**
