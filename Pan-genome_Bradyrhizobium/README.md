@@ -13,10 +13,10 @@
 <br>`emapper.annotations.xlsx` -  results from eggNOG mapper annotation phase in .xlsx format
 
 **Analysis**
-<br>`Pan-genome_post_roary.ipynb` - Jupyter Notebook  
-<br>`FastANI_plotter.ipynb` - Jupyter Notebook  
-<br>`Roary_unique_gene_COG.ipynb` - Jupyter Notebook  
-<br>`rhierbaps.R` - R script 
+<br>`Pan-genome_post_roary.ipynb` - Jupyter Notebook
+<br>`FastANI_plotter.ipynb` - Jupyter Notebook
+<br>`Roary_unique_gene_COG.ipynb` - Jupyter Notebook
+<br>`rhierbaps.R` - R script
 
 **Accessory**
 <br>`COG one letter code descriptions.xlsx` - guide to COG one-letter codes categorize protein functions into main groups
