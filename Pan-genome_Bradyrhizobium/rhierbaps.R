@@ -9,7 +9,7 @@ write.csv(hb.results$partition.df, file = "hierbaps_partition.csv", col.names = 
           row.names = FALSE)
 saveRDS(hb.results, file = "hierbaps.RDS")
 
-tree <- phytools::read.newick("IQTREE.nwk")
+tree <- phytools::read.newick("IQ-TREE.nwk")
 hb.results <- read.csv("hierbaps_partition.csv")
 colnames(hb.results) <- sub("\\.", " ", colnames(hb.results))
 
