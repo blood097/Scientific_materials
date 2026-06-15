@@ -1,4 +1,4 @@
-# *Bradyrhizobium ottawaense*: How pan-genomic research has suddenly reveal strain with freakish host specific compatibility
+# Pan-genomic research of *Bradyrhizobium ottawaense* has unexpectedly revealed a strain with unusual host-specific compatibility
 <br>`выходные данные статьи`
 <br><ссылка>
 <p align="center">
