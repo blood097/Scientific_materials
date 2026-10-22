@@ -11,7 +11,7 @@
 
 **Analysis**
 <br>`YOLO_nodule_infection.ipynb` - Jupyter Notebook script to detect infected cells on unannotated microphotographs
-<br>`Monte-Carlo.ipynb` - Jupyter Notebook script to implement the Monte Carlo statistical simulation  
+<br>`Monte-Carlo.ipynb` - Jupyter Notebook script to implement the Monte Carlo statistical simulation
 <br>`YOLOv26_cell.ipynb` - training environment on Google Colab
 
 ___
