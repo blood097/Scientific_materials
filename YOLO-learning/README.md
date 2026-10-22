@@ -10,9 +10,9 @@
 <br>`Symbiotic-nodule-occupancy.v1-nodule_micro_v1.yolo26.zip` - 
 
 **Analysis**
-<br>`YOLO_nodule_infection.ipynb` - Jupyter Notebook for 
-<br>`Monte-Carlo.ipynb` - Jupyter Notebook for 
-<br>`Roary_unique_gene_COG.ipynb` - Google Colab Notebook for 
+<br>`YOLO_nodule_infection.ipynb` - Jupyter Notebook script to detect infected cells on unannotated microphotographs
+<br>`Monte-Carlo.ipynb` - Jupyter Notebook script to implement the Monte Carlo statistical simulation  
+<br>`YOLOv26_cell.ipynb` - training environment on Google Colab
 
 ___
 Created by Kirichek Evgenii - e.kirichek@arriam.ru
