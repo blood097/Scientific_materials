@@ -2,7 +2,7 @@
 <br>`выходные данные статьи`
 <br><ссылка>
 <p align="center">
-  <img width="1200" height="900" src="">
+  <img width="1200" height="900" src="https://github.com/blood097/Scientific_materials/blob/7206f38f154e59a31bca174d4e4a0bbcfe48f970/YOLO-learning/abstract.png">
 </p>
 
 **Data**
