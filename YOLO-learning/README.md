@@ -6,8 +6,8 @@
 </p>
 
 **Data**
-<br>`Inf_cell_YOLOv26L-seg_vers2__learning_results.csv` - 
-<br>`Symbiotic-nodule-occupancy.v1-nodule_micro_v1.yolo26.zip` - 
+<br>`Inf_cell_YOLOv26L-seg_vers2__learning_results.csv` - trained instance segmentation model performance
+<br>`Symbiotic-nodule-occupancy.v1-nodule_micro_v1.yolo26.zip` - dataset and annotations in the YOLO26 format
 
 **Analysis**
 <br>`YOLO_nodule_infection.ipynb` - Jupyter Notebook script to detect infected cells on unannotated microphotographs
