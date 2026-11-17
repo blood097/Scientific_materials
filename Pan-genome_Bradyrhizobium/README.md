@@ -1,6 +1,6 @@
 # Pan-genomic research of *Bradyrhizobium ottawaense* points to a strain with unusual host-specific compatibility
-<br>`Kirichek EA, Tsyganov VE Curr Microbiol 83, 624 (2026)`
-<br><[DOI](https://doi.org/10.1007/s00284-026-05217-1)>
+<br>`Kirichek E.A., Tsyganov V.E. Curr Microbiol 83, 624 (2026)`
+<br><[DOI: 10.1007/s00284-026-05217-1](https://doi.org/10.1007/s00284-026-05217-1)>
 <p align="center">
   <img width="1200" height="900" src="https://github.com/blood097/Scientific_materials/blob/8cfd4c6360cda5c359535f348f1414eacabf3675/Pan-genome_Bradyrhizobium/abstract.png">
 </p>
